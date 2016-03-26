@@ -1,2 +1,2 @@
 # MLCourse
-Via Andrew Ng's Coursera
+Via Andrew Ng's Machine-Learning Coursera
